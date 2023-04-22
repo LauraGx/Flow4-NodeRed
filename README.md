@@ -55,8 +55,8 @@ mosquitto_pub -h localhost -t codigoIoT/Mor/mqtt/flow4 -m '{"id":"Diana","temp":
 
 A continuación puede verse una vista previa del resultado de este flow.
 
-![](https://github.com/Cecilia-X-M/flow4-NodeRed/blob/main/flow4.png)
-![](https://github.com/Cecilia-X-M/flow4-NodeRed/blob/main/flow4.2.png)
+![](https://github.com/LauraGx/Flow4-NodeRed/blob/main/flow4.png)
+![](https://github.com/LauraGx/Flow4-NodeRed/blob/main/flow4.2.png)
 
 # Créditos
 
